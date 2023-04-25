@@ -44,6 +44,8 @@
 Для реализации поставленных задач, можно почитать краткие лекции в репозитории:
 - **[Webpack](https://github.com/42praktika/ITIS-JS-Vebinars/tree/main/Webpack)**
 - **[MVC](https://github.com/42praktika/ITIS-JS-Vebinars/tree/main/MVC)**
+- **[AJAX](https://github.com/42praktika/ITIS-JS-Vebinars/tree/main/Async%20Programming)**
+
 Внешний вид и функционал модального окна - зона ответственности студента;
 
 ### Технологии и зависимости, обязательные к использованию в проекте
